@@ -20,4 +20,4 @@ Once you have finished solving the exercises, be sure to commit your changes, pu
 
 Once you start working on the project, you will see a `./notebook/problems.ipynb` file containing a list of exercises. Complete each of them, one by one.
 
-> NOTA: Solution: https://github.com/4GeeksAcademy/calculus-and-algebra-problems-with-python/blob/main/notebook/solutions.ipynb
+> NOTA: Solution: https://github.com/4GeeksAcademy/calculus-and-algebra-problems-with-python/blob/main/notebook/solutions.ipynb# Problemas-de-calculo-y-algebra
